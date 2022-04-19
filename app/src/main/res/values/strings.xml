@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VideoUploader</string>
+    <string name="click_here_to_add_video">Click Here to Add Video</string>
+    <string name="enter_tag">Enter Tag</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="post">Post</string>
+    <string name="this_is_description">This is description.</string>
+    <string name="tag">TAG</string>
+</resources>

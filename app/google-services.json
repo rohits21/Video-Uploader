@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918507212442",
+    "project_id": "videoupoader",
+    "storage_bucket": "videoupoader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918507212442:android:854a270fba4049fbc09923",
+        "android_client_info": {
+          "package_name": "com.example.videoupoader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918507212442-aa1151q5flvuukd16j3qvrciopne9rnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGKeRYwYXOtCVTbVdulH-ao0a-LhGHR78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918507212442-aa1151q5flvuukd16j3qvrciopne9rnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
